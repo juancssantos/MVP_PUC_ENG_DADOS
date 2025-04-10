@@ -44,8 +44,7 @@ Linhagem dos dados (origem → transformação → destino).
 
 ⚙️ Tecnologias Utilizadas
 
-Databricks (Spark SQL, Delta Lake)
+Databricks (Spark SQL)
 
 Python (PySpark, Pandas para validações)
 
-DBFS (Armazenamento distribuído)
