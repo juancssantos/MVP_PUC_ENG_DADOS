@@ -2,7 +2,6 @@
 
 Link: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2894892977690218/2204695551162580/1473597321450676/latest.html
 
-
 <img width="784" alt="print databricks" src="https://github.com/user-attachments/assets/29f16581-7829-4eb8-8cdb-397686df5666" />
 
 📌 Visão Geral
